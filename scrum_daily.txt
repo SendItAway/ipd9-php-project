@@ -1,0 +1,22 @@
+EVERY DAY EACH MEMBER WILL WRITE DOWN THE FOLLOWING:
+1. What did I do / did not do since last Scrum.
+2. What will I do until the next Scrum.
+3. Where do I need help / what do I need to research.
+
+By Monday - fill in Trello board with a breakdown
+of *User stories* and Todo items in them.
+
+DUE DATES:
+
+* May 15, 2017: Final project proposals - as MS Word or PDF.
+* May 17, 2017: Quiz 2
+* May 18, 2017: Mid-way project review
+* May 24, 2017: Presentations and final project source codes 
+
+Project proposals:
+* page 1: as prescribed
+* page 2: database
+* page 3: mockup of at least 2 pages specific (key pages) to your project
+You may use https://moqups.com
+
+
