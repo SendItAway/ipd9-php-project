@@ -5,12 +5,7 @@ session_start();
 
 require_once 'vendor/autoload.php';
 
-//DB::$host = '127.0.0.1';
-DB::$user = 'slimtodo';
-DB::$password = 'EaOvdIy5OJkZhtGN';
-DB::$dbName = 'slimtodo';
-DB::$port = 3333;
-DB::$encoding = 'utf8';
+require_once 'local.php';
 
 // Slim creation and setup
 $app = new \Slim\Slim(array(
